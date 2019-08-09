@@ -9,4 +9,6 @@ def find_max_value(array)
 end
 
 def find_min_value(array)
-
+describe 'find_min_value(array)' do
+    it 'takes in an array of integers and returns the lowest value integer' do
+end
